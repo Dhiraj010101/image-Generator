@@ -1,0 +1,5 @@
+{
+  "name": "Visionary AI - Image Architect",
+  "description": "Analyze reference images and generate high-fidelity variations. Features multi-option generation and deep feature analysis using Gemini Flash.",
+  "requestFramePermissions": []
+}
